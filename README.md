@@ -1,1 +1,1 @@
-# ex-introducao-de-python
+# Exercícios do livro: Introdução à programação com Python
